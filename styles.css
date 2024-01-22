@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-image: url('racephoto.jpg');
+    background-size: cover;
+    background-position: center;
+}
+  .container {
+    text-align: center;
+    background-color: grey;
+    background-image: url('racing-people-and-winning-runner-marathon-vector-13905301.jpg');
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    height: 350px;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+   
+  }
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    font-size: larger;
+}
